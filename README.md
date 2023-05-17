@@ -7,7 +7,7 @@ Amaia González-Magaña1, Maria. D Pastor-Viveros1
 Sonia Arrasate3,4, Humberto González-Díaz1,4,5, David Albesa-Jové,1,5
 
 #Affiliations
-1 BIOFISIKA: Basque Center for Biophysics CSIC, UPV/EHU), Barrio Sarriena s/n, Leioa, Bizkaia 48940
+1 BIOFISIKA: Basque Center for Biophysics CSIC, (UPV/EHU), Barrio Sarriena s/n, Leioa, Bizkaia 48940
 2 Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Center of Information and Communication Technologies, University of A Coruña, Campus Elviña s/n, 15071, A Coruña, Spain.
 3 IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
 4Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain.
