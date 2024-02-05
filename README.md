@@ -11,7 +11,7 @@ Sonia Arrasate8, Humberto González-Díaz1,8,9*, David Albesa-Jové,1,9,10,*
 # Affiliations
 1 Instituto Biofisika (CSIC, UPV/EHU), Fundación Biofísica Bizkaia/Biofisika Bizkaia Fundazioa, 48940 Leioa, Spain.
 2 Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Center of Information and Communication Technologies, University of A Coruña, 15071 A Coruña, Spain.
-3 IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
+3 IKERDATA S.L., ZITEK, University of the Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
 4 Cruces University Hospital, IIS Biocruces-Bizkaia, 48903 Barakaldo, Spain.
 5 Department of Public Law, University of the Basque Country, 48940 Leioa, Spain.
 6 Departamento de Inmunología, Microbiología y Parasitología, University of the Basque Country, 48940 Leioa, Spain. 
