@@ -2,23 +2,23 @@
 IFPTML-GDPR Compliant Personalized Medicine Metagenomic Analysis of Microbiome Cystic Fibrosis Patients
 
 # Authors
-Carmen Velázquez1, María D. Pastor-Vivero4,*, Estefanía Ascencio-Medina2,3, 
+Carmen Velázquez1, María D. Pastor-Vivero4*, Estefanía Ascencio-Medina2,3, 
 José Ángel Fernández-Higuero6, Maialen Zabala1, Laura Acosta2, Aliuska Duardo-Sánchez5, 
 Ane Ibañez-Antolín8, Jon Altuna-Álvarez1,, Amaia González-Magaña1,9, Itxaso Montánchez7, 
 Patricia Iraurgui-Arcarazo4, Ainhoa Gómez-Bonilla4, Félix Baranda García4, 
-Sonia Arrasate8, Humberto González-Díaz1,8,9*, David Albesa-Jové,1,9,10,*
+Sonia Arrasate8, Humberto González-Díaz1,8,9*, David Albesa-Jové,1,9,10*
 
 # Affiliations
 1 Instituto Biofisika (CSIC, UPV/EHU), Fundación Biofísica Bizkaia/Biofisika Bizkaia Fundazioa, 48940 Leioa, Spain.
 2 Department of Computer Science and Information Technologies, Faculty of Computer Science, CITIC-Research Center of Information and Communication Technologies, University of A Coruña, 15071 A Coruña, Spain.
-3 IKERDATA S.L., ZITEK, University of the Basque Country UPVEHU, Rectorate Building, 48940 Leioa, Spain.
+3 IKERDATA S.L., ZITEK, University of the Basque Country (UPVEHU), Rectorate Building, 48940 Leioa, Spain.
 4 Cruces University Hospital, IIS Biocruces-Bizkaia, 48903 Barakaldo, Spain.
-5 Department of Public Law, University of the Basque Country, 48940 Leioa, Spain.
-6 Departamento de Inmunología, Microbiología y Parasitología, University of the Basque Country, 48940 Leioa, Spain. 
+5 Department of Public Law, University of the Basque Country (UPVEHU), 48940 Leioa, Spain.
+6 Departamento de Inmunología, Microbiología y Parasitología, University of the Basque Country (UPVEHU), 48940 Leioa, Spain. 
 6 Jesuitak Politeknikoa, 48010 Bilbao, Spain.
-8 Department of Organic and Inorganic Chemistry, University of The Basque Country, 48940 Leioa, Spain.
+8 Department of Organic and Inorganic Chemistry, University of The Basque Country (UPVEHU), 48940 Leioa, Spain.
 9 Ikerbasque, Basque Foundation for Science, 48013 Bilbao, Spain
-10 Departamento de Bioquímica y Biología Molecular, University of the Basque Country, 48080 Bilbao, España.
+10 Departamento de Bioquímica y Biología Molecular, University of the Basque Country, (UPVEHU) 48080 Bilbao, España.
 
 # Abstract
 Cystic fibrosis (CF), is an autosomal recessive monogenic disease caused by mutations in a gene on the long arm of chromosome 7 that codes for the CFTR (Cystic Fibrosis Transmembrane conductance Regulator) protein. These mutations cause dysfunctional transport of chloride and other ions such as sodium and bicarbonate (Fonseca et al., 2020) which leads to the generation of thick and viscous mucus secretions from the lungs, as a consequence the airways are obstructed with an ideal environment for microbial colonization. The main treatment in this disease and specifically in exacerbations (phenomenon where there is a rapid deterioration of lung function) is antibiotic therapy according to the antibiotic resistance profile obtained from clinical micribiology plate culture. However with this method is slow and not totally accurate. In this context, combining Next-generation sequencing (NGS) PCR-based metagenomics for the identification of bacterial species from a clinical sample combined with Artificial inteligence /Machine learning (AI/ML) could be a fast track solution to create customized Personalized Medicine (PM) treatments for specific patients. Here we used the  Information Fusion +Perturbation Theory + Machine Learning (IFPTML) data pre-processing technique combined to Linear and Non-linear ML methods like Linear Discriminant Analysis (LDA) and Artificial Neuronal Networks (ANN) to obtain a PM predictive model for CF patients. Last, GDPR compliance Synthetic Data (SD) generation experiments by Monte Carlo (MC) methods have been performed in order to avoid patient re-identification and test model robustness at the same time. 
